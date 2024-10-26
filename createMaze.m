@@ -1,6 +1,6 @@
 function createMaze()
-    rows = 21; 
-    cols = 21; 
+    rows = 41; 
+    cols = 41; 
     maze = ones(rows, cols);
     start_row = 2;
     start_col = 2;
